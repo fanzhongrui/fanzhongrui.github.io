@@ -42,10 +42,10 @@ body{
 .header-section {
   background: #deecdf;
   text-align: center;
-    min-height: 500px;
+    min-height: 300px;
 }
 .header-section img {
-  margin-top: 7em;
+  margin-top: 8em;
 }
 .header-section h1 {
   font-family: 'Nunito-Bold';
