@@ -180,8 +180,6 @@ font-size: 2em;
   text-transform: capitalize;
   color: #393b3a;
   text-align: center;
-  margin-bottom:1em;
-  margin-top:1em;
 }
 .face p {
   font-size: 3em;
@@ -243,8 +241,6 @@ i.beh {
   text-transform: capitalize;
   color: #393b3a;
   text-align: center;
-  margin-bottom: 2em;
-
 }
 .contact-details form input[type="text"],.contact-details form textarea {
 	width: 100%;
@@ -425,7 +421,6 @@ span.glyphicon.glyphicon-triangle-bottom {
   }
 .social-icons h3 {
   font-size: 1.6em;
-    margin-bottom: 1.5em;
 }
 .face {
   float: left;
@@ -471,7 +466,6 @@ i.beh {
 }
 .contact-section h3 {
   font-size: 1.6em;
-  margin-bottom: 1.5em;
 }
 .contact-left {
   float: left;
@@ -619,7 +613,6 @@ span.glyphicon.glyphicon-triangle-bottom {
 }
 .social-icons h3 {
   font-size: 1.3em;
-   margin-bottom: 1em;
 }
 .face p {
   font-size: 1.3em;
@@ -637,7 +630,6 @@ span.glyphicon.glyphicon-triangle-bottom {
 }
 .contact-section h3 {
   font-size: 1.3em;
-  margin-bottom: 1em;
 }
 .contact-details form textarea {
   height: 160px;
@@ -680,7 +672,6 @@ span.glyphicon.glyphicon-triangle-bottom {
 }
 .study-grid h3 {
   font-size: 1.5em;
-  padding-top:2em;
 }
 .study-section {
   padding: 0em 0;
