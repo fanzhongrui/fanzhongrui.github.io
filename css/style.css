@@ -35,14 +35,14 @@ ul{
 }
 body{
 	padding:0 0;
-	margin-left:50px;
+	margin-left:80px;
 	font-family: 'OpenSans-Regular';
 
 }
 .header-section {
   background: #deecdf;
   text-align: center;
-    min-height: 150px;
+  min-height: 150px;
 }
 .header-section img {
   margin-top: 1em;
@@ -72,11 +72,11 @@ span.glyphicon.glyphicon-triangle-bottom {
   margin-top: 2.5em;
   }
 .study-section {
-  padding: 4em 0;
+  padding: 2em 0;
 }
 .study-grid h3 {
   font-family: 'Nunito-Bold';
-  font-size: 2.5em;
+  font-size: 2.2em;
   text-transform: capitalize;
   color: #393b3a;
   
