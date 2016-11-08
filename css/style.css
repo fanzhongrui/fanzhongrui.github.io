@@ -709,3 +709,7 @@ span.glyphicon.glyphicon-triangle-bottom {
 .contact-details input[type="submit"] {
   font-size: 0.8em;
 }
+.study1 p{
+    margin: 0;
+    padding:0;
+}
