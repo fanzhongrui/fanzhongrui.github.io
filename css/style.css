@@ -671,7 +671,7 @@ span.glyphicon.glyphicon-triangle-bottom {
   min-height: 300px;
 }
 .study-grid h3 {
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 .study-section {
   padding: 0em 0;
@@ -679,9 +679,6 @@ span.glyphicon.glyphicon-triangle-bottom {
 .study-grid p {
   font-size: 0.9em;
 }
-.study-grid {
-  margin-top: 1.5em;
- }
  .study-grid h4 {
   font-size: 1.15em;
 }
@@ -709,8 +706,9 @@ span.glyphicon.glyphicon-triangle-bottom {
 .contact-details input[type="submit"] {
   font-size: 0.8em;
 }
+p{margin:0;padding:0;}
 .study1 p{
-    margin: 0;
+    margin:0;
     padding:0;
 }
 .study-grid h3{
