@@ -6,9 +6,6 @@
     font-family: 'OpenSans-Regular';
     src:url(../fonts/OpenSans-Regular.ttf) format('truetype');
 }
-body{
-    margin-left:50px;
-}
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -38,7 +35,7 @@ ul{
 }
 body{
 	padding:0 0;
-	margin:0 0; 
+	margin-left:50px;
 	font-family: 'OpenSans-Regular';
 
 }
@@ -184,7 +181,8 @@ font-size: 2em;
   text-transform: capitalize;
   color: #393b3a;
   text-align: center;
-  margin-bottom:2em;
+  margin-bottom:1em;
+  margin-top:1em;
 }
 .face p {
   font-size: 3em;
