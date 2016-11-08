@@ -6,6 +6,9 @@
     font-family: 'OpenSans-Regular';
     src:url(../fonts/OpenSans-Regular.ttf) format('truetype');
 }
+body{
+    margin-left:50px;
+}
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
